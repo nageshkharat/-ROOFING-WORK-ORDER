@@ -22,9 +22,6 @@ It follows the assignment guidelines to ensure:
   ```bash
   git clone https://github.com/nageshkharat/Roofing-Work-Order.git
   cd Roofing-Work-Order
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
 - Add your Gemini API key to .env file:
   ```bash
   GOOGLE_API_KEY=your_api_key_here
