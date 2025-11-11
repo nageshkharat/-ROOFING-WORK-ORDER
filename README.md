@@ -20,8 +20,8 @@ It follows the assignment guidelines to ensure:
 - Python 3.10+
 - Clone the repository: 
   ```bash
-  git clone https://github.com/nageshkharat/-ROOFING-WORK-ORDER.git
-  cd roof-order-extraction
+  git clone https://github.com/nageshkharat/Roofing-Work-Order.git
+  cd Roofing-Work-Order
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
