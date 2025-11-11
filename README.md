@@ -16,9 +16,12 @@ It follows the assignment guidelines to ensure:
 - `99907349 Roof 3-redacted.pdf` — Contains the test case PDF  
 
 ---
-
 ## Requirements
 - Python 3.10+
+- Clone the repository:
+  ```bash
+  git clone https://github.com/<your-username>/roof-order-extraction.git
+  cd roof-order-extraction
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
