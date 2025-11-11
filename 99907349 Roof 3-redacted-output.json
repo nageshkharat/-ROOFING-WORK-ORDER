@@ -1,0 +1,186 @@
+{
+  "extraction": [
+    {
+      "header": {
+        "ship_to": {
+          "name": "American Homes",
+          "address1": "47 Forsman",
+          "address2": "None",
+          "address3": "None",
+          "city": "None",
+          "state": "TN",
+          "country": "None",
+          "country_code": "None",
+          "zip": "61540"
+        },
+        "bill_to": {
+          "name": "American Homes",
+          "address1": "47 Forsman",
+          "address2": "None",
+          "address3": "None",
+          "city": "free",
+          "state": "TN",
+          "country": "None",
+          "country_code": "None",
+          "zip": "61540"
+        },
+        "vendor": "None",
+        "buyer_contact": {
+          "name": "Kyle",
+          "email": "None",
+          "contact_number": "704-60"
+        },
+        "shipping_contact": {
+          "name": "Randy",
+          "email": "None",
+          "contact_number": "None"
+        },
+        "project_number": "None",
+        "purchase_order_number": "None",
+        "job_name": "None",
+        "job_number": "3917",
+        "quote_number": "None",
+        "date_ordered": "2024-08-08",
+        "delivery_date": "TBD",
+        "shipping_instructions": "Knock on the Homeowners door before starting and let them know that we are starting. Place a pallet over the AC unit. Protect all gutters / Tarp over landscaping and pool area. Roll Magnet through entire yard, shrubs, driveway, and walkways. vents to match shingle color. If there are any questions on delivery, please call the production manager.",
+        "notes": "None",
+        "ship_via": "None",
+        "payment_terms": "None"
+      },
+      "line_items": [
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 41,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Shingles (sq), IKO Cambridge, LT, Weathered Wood",
+          "spell_corrected_product_description": "Shingles (sq), IKO Cambridge, LT, Weathered Wood"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 7,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Ridge (bdl)",
+          "spell_corrected_product_description": "Ridge (bdl)"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 3,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "1 1/4\" Nails",
+          "spell_corrected_product_description": "1 1/4\" Nails"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 3,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Starter (bdl)",
+          "spell_corrected_product_description": "Starter (bdl)"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 4,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Underlayment Synthetic 15# (5sq/roll)",
+          "spell_corrected_product_description": "Underlayment Synthetic 15# (5sq/roll)"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 2,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Ice & Water (2sq/rolls)",
+          "spell_corrected_product_description": "Ice & Water (2sq/rolls)"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 4,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Caulk / NP1",
+          "spell_corrected_product_description": "Caulk / NP1"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 4,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Valley W-pan (8'/pc)",
+          "spell_corrected_product_description": "Valley W-pan (8'/pc)"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 33,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Drip Edge (8'/pcs Style-D), White",
+          "spell_corrected_product_description": "Drip Edge (8'/pcs Style-D), White"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 11,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Vents Slant Back",
+          "spell_corrected_product_description": "Vents Slant Back"
+        },
+        {
+          "line_no": "None",
+          "on_hand": "None",
+          "to_buy": "None",
+          "quantity": 3,
+          "uom": "None",
+          "unit_price": "None",
+          "currency": "None",
+          "part_numbers": "None",
+          "product_description": "Pipe flashing 3in1",
+          "spell_corrected_product_description": "Pipe flashing 3in1"
+        }
+      ]
+    }
+  ]
+}
